@@ -5,7 +5,6 @@
 During emergency evacuation, individual behavior is influenced not only by environmental conditions, hazard levels, and evacuation goals, but may also be affected by social relationships with accompanying individuals. When evacuating with family members, friends, or romantic partners, individuals may exhibit behaviors such as waiting for companions, moving together, adjusting movement speed, maintaining companion distance, and changing their original evacuation strategies according to the state of their companions.
 
 This questionnaire focuses on the above social behaviors and is mainly used to investigate individual behavioral preferences in terms of risk perception, waiting, companion movement, distance maintenance, and behavioral adjustment under different social relationship conditions. The survey results also provide a data basis for calculating related social behavior parameters and calibrating evacuation models.
-
 The dataset contains **506 valid questionnaires**, and the complete questionnaire consists of **102 items**.
 
 
@@ -30,7 +29,6 @@ The questionnaire mainly focuses on the following three types of stable social r
 - Romantic partners
 
 Some items also include strangers as a reference condition to analyze behavioral differences between stable social relationships and unfamiliar individuals.
-
 The family, friend, and romantic-partner conditions were answered by the same participants. Therefore, the corresponding data constitute repeated-measures data from the same participants.
 
 
@@ -52,16 +50,13 @@ The complete questionnaire contains **102 items**, organized as follows:
 The questionnaire includes five-point behavioral preference items, binary-choice items, categorical-choice items, time-interval items, and distance-interval items.
 
 Most five-point behavioral preference items use a response scale ranging from “Strongly Disagree” to “Strongly Agree.” Time- and distance-related items are mainly used to obtain behavioral time and distance parameters with practical meanings.
-
 The complete 102 questionnaire items and all response options are provided in:
-
 `questionnaire.pdf`
 
 
 ## 3. Data Collection and Sample Characteristics
 
 The questionnaire survey was conducted online through the **Wenjuanxing** platform in **May 2026**, using convenience sampling to recruit participants.
-
 A total of **600 questionnaires** were collected. Based on response completeness, obvious patterned responses, and logical consistency among related items, **94 invalid questionnaires** were excluded. Finally, **506 valid questionnaires** were retained, corresponding to a valid response rate of **84.33%**.
 
 The basic characteristics of the valid sample are shown below:
@@ -123,9 +118,7 @@ For behavioral differences among the family, friend, and romantic-partner condit
 ### 4.2 Behavioral Parameter Calculation
 
 The questionnaire results were further used to convert participants' reported behavioral preferences into quantitative social behavior parameters.
-
 For five-point behavioral preference items, the original scores were normalized to the range `[0,1]`:
-
 `x' = (x - 1) / 4`
 
 The corresponding mapping is shown below:
@@ -184,7 +177,6 @@ This repository mainly contains the following files:
 | `README.md` | Description of questionnaire design, sample characteristics, data structure, and data usage |
 
 The Excel dataset contains the complete responses of **506 valid participants to Q1–Q102**.
-
 The publicly released dataset does not contain direct personal identifiers such as names, identification numbers, telephone numbers, or email addresses.
 
 The dataset can be used for research on social behavior in emergency evacuation, comparison of behavioral preferences under different social relationship conditions, analysis of waiting and companion behaviors, companion-distance research, social behavior parameter calculation, and related evacuation model calibration.
