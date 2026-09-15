@@ -56,7 +56,7 @@ The complete 102 questionnaire items and all response options are provided in:
 
 ## 3. Data Collection and Sample Characteristics
 
-The questionnaire survey was conducted online through the **Wenjuanxing** platform in **May 2026**, using convenience sampling to recruit participants.
+The questionnaire survey was conducted online through the **Wenjuanxing** platform in **March 2026**, using convenience sampling to recruit participants.
 A total of **600 questionnaires** were collected. Based on response completeness, obvious patterned responses, and logical consistency among related items, **94 invalid questionnaires** were excluded. Finally, **506 valid questionnaires** were retained, corresponding to a valid response rate of **84.33%**.
 
 The basic characteristics of the valid sample are shown below:
