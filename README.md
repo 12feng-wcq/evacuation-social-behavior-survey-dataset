@@ -182,6 +182,3 @@ The publicly released dataset does not contain direct personal identifiers such 
 The dataset can be used for research on social behavior in emergency evacuation, comparison of behavioral preferences under different social relationship conditions, analysis of waiting and companion behaviors, companion-distance research, social behavior parameter calculation, and related evacuation model calibration.
 
 
-If you use this questionnaire or dataset in academic research, please cite the corresponding research paper.
-
-The complete citation information will be added here after the paper is formally published.
